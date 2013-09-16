@@ -1,4 +1,4 @@
-PROYECTO SUPER NENAS
+PROYECTO CHICAS DAW
 ============
 
 Grupo formado por:
