@@ -1,24 +1,35 @@
-PROYECTO CHICAS DAW
-============
+#PROYECTO CHICAS DAW
 
-**Grupo formado por:** Siomara Holguin, Belen Malo e Inma Reyes
-**Curso:** 2º DAW
+Grupo formado por: 
+ + Siomara Holguin
+ + Belen Malo
+ + Inma Reyes
 
+## INTRODUCCIÓN
+
+> Hoy en día el conocimiento de idiomas es muy importante, no solo por cuestiones culturales o por el hecho de comunicarse
+> con la gente cuando estás en el extranjero, sino por razones relacionadas con el mundo laboral. El más importante de estos
+> idiomas sin duda es el inglés, que cada día es más necesario para obtener un puesto de trabajo y desenvolverse en el
+> amplio mundo que ofrece la web.
 
 ## OBJETIVO
 
-Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. 
-Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor 
-(N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que 
-logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno 
-en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las 
-hojas "Letraset", las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por
-ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.
+> Con este proyecto lo que buscamos es acercar a personas de diferentes paises que se registrarán en nuestra página para
+> ponerse en contacto con personas de todo el mundo que hablen el idioma que quieren practicar y a través de un programa 
+> de videoconferencia (Skype) mantengan conversaciones para aumentar sus conocimientos del idioma extranjero deseado. 
+
+## PLANTEAMIENTO
+
+> Para que este proyecto funcione necesitamos que el usuario visite nuestra página y se registre dando unos datos 
+> personales muy básicos que formarán su perfil. Los perfiles de los usuarios se agruparán por el país al que 
+> pertenezca dicho usuario. 
+
+> Cuando una persona ingrese en la página podrá acceder a un mapa mundi para escoger la zona del usuario con el que 
+> quiere mantener una conversación apareciendo una lista de usuarios que vivan en el país escogido. Una vez en este 
+> paso la persona podrá escoger un compañero de conversación mirando los perfiles de los usuarios para encontrar 
+> personas con gustos similares.
 
 
-## REPARTICIÓN DE LA TAREA
 
 
-+ **DESARROLLADORA:** Siomara Holguin
-+ **ADMINISTRATIVA:** Belen Malo
-+ **DISEÑADORA:** Inma Reyes
+
