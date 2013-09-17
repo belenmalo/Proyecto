@@ -19,14 +19,15 @@
 
 ## PLANTEAMIENTO
 
-> Para que este proyecto funcione necesitamos que el usuario visite nuestra página y se registre dando unos datos 
+> Para que este proyecto funcione necesitamos que el interesado visite nuestra página y se registre dando unos datos 
 > personales muy básicos que formarán su perfil. Los perfiles de los usuarios se agruparán por el país al que 
-> pertenezca dicho usuario. 
+> pertenezcan.
 
 > Cuando una persona ingrese en la página podrá acceder a un mapa mundi para escoger la zona del usuario con el que 
-> quiere mantener una conversación apareciendo una lista de usuarios que vivan en el país escogido. Una vez en este 
-> paso la persona podrá escoger un compañero de conversación mirando los perfiles de los usuarios para encontrar 
-> personas con gustos similares.
+> quiere mantener una conversación apareciendole una lista de usuarios que vivan en el país escogido. Una vez en este paso
+> se podrá escoger un compañero de conversación mirando los perfiles de los usuarios para encontrar personas con gustos 
+> similares al interesado.
+
 
 
 
