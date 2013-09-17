@@ -1,9 +1,8 @@
 #PROYECTO CHICAS DAW
 
-Grupo formado por: 
- + Siomara Holguin
- + Belen Malo
- + Inma Reyes
++ **Ciclo:** 2º DAW.
++ **Curso:** 2013-2014.
++ **Grupo formado por:** Siomara Holguin, Belen Malo e Inma Reyes.
 
 ## INTRODUCCIÓN
 
